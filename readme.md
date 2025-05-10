@@ -58,7 +58,7 @@
     pip install selenium
     ```
 3.  **安装Chrome**：访问 [Chrome官网](https://www.google.com/chrome/) 下载并安装。
-4.  **下载ChromeDriver**：访问 [ChromeDriver下载页面](https://sites.google.com/a/chromium.org/chromedriver/downloads) 下载，并将其置于系统PATH或脚本同目录下。
+4.  **下载ChromeDriver**：访问 [ChromeDriver下载页面](https://getwebdriver.com/chromedriver) 下载，并将其置于系统PATH或脚本同目录下。
 
 ## 注意事项
 
