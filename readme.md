@@ -2,7 +2,7 @@
 
 **快速上手，轻松抢购！** 本脚本基于Selenium，助您在指定时间自动完成淘宝购物车商品的结算和下单。
 
-**项目来源：** 本项目基于GitHub上的[veezeen/AutoBuyScript](https://github.com/veezeen/AutoBuyScript)项目进行修改。
+**项目来源：** 本项目基于GitHub上的[veezeen/AutoBuyScript](https://github.com/veezeen/AutoBuyScripts)项目进行修改。
 
 ## 核心功能
 
